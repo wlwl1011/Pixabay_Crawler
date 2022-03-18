@@ -2,7 +2,7 @@
 Pixabay Crawler using selenium in python
 
 ## How to execute
-1. git clone/download
+1. `git clone/download`
 2. `cd Pixabay_Crawler` 
 3. `python3 crawler.py [name] [count] [folder name]`
 
